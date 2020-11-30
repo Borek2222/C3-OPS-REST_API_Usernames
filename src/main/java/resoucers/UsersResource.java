@@ -38,23 +38,22 @@ public class UsersResource {
                 }
             }
         }
+
         userList.add(username);
+
         return Response.ok("User " + username + " created").build();
     }
-
 
 
     @PUT
     @Path("/{username}")
     public Response edit(String username) {
-      /*  String edit;
-        edit = username.replace(username, edit);
-
+        String edit = "edit";
 
         userList.remove(username);
-        userList.add(edit);*/
+        userList.add(edit);
 
-        return Response.ok("User renamed from " /*+ username + " to " + edit*/).build();
+        return Response.ok("User renamed from " + username + " to " + edit).build();
     }
 
 

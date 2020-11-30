@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da33132f-c8ff-4591-b780-f398008a6bf4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/resoucers/UsersResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resoucers/UsersResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/Palma.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Palma.war" afterDir="false" />
@@ -52,7 +51,7 @@
       <workItem from="1606647911237" duration="1409000" />
       <workItem from="1606650062499" duration="990000" />
       <workItem from="1606729782518" duration="8543000" />
-      <workItem from="1606760099551" duration="7451000" />
+      <workItem from="1606760099551" duration="8725000" />
     </task>
     <servers />
   </component>
